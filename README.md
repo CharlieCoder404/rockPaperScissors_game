@@ -1,6 +1,5 @@
 # rockPaperScissors_game
 
-This is a java program for Tic-Tac-Toe game.
-It consists of two modes :
-1. Single Player (Player vs Computer)
-2. Multiplayer (Player1 vs Player2)
+This is a java program for "Rock Paper Scissor" game.
+It takes input from the player and the computer and shows the winner accordingly.
+
